@@ -1,2 +1,2 @@
-# Handwritten-digit-recognition-using-MNIST-dataset
-This is a Task given by BharatIntern for Data Science Internship
+# BharatIntern-Datascience-Tasks
+These are the Tasks given by BharatIntern for Data Science Internship
